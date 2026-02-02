@@ -1,5 +1,6 @@
 # Tash-Raheem Harris
 (also known as Tash-Raheem Joyner)
+
 Architect · System Designer · Founder of Legacy Codex OS 
 
 Orientation (Refactored v1)
