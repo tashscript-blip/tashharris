@@ -15,6 +15,6 @@ I design systems because I solve problems structurally. Teaching every individua
 
 Legacy Codex OS is a human operating system for agency, alignment, and completion—built for those ready to update how they think, decide, and create value in the modern world.
 
-##Contact
-##trj.menu@gmail.com 
-###I work selectively. 
+## Contact
+## trj.menu@gmail.com 
+### I work selectively. 
